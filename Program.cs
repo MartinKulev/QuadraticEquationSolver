@@ -137,7 +137,7 @@ public class Program
             double discriminant = Math.Pow(b, 2) - 4 * a * c;
             if (discriminant < 0)
             {
-                Console.WriteLine("No real roots");
+                Console.WriteLine("No real roots!");
             }
             else if (discriminant == 0)
             {
