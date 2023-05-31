@@ -1,5 +1,5 @@
-# Quadratic-equation-solver
-A program that can solve any quadratic equation.
+# Quadratic Equation Solver
+This program is designed to solve any quadratic equation.
 
-# How to use the program?
-You type in a quadratic equation and the program solves it for you. No need to order the quadratic equation when typing it in - the program does it for you. The program returns x1 and x2, x or "no real roots" message, depending on the value of the discriminant.
+# How to Use the Program
+Simply input a quadratic equation, and the program will solve it for you. There's no need to worry about ordering the quadratic equation when typing it in, as the program will handle it automatically. The program will return the values of x1 and x2, or a message stating "no real roots" based on the discriminant's value.
